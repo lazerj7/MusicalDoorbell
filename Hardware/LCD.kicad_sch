@@ -6,8 +6,8 @@
 
   (title_block
     (title "Musical Doorbell")
-    (date "2022-01-06")
-    (rev "B")
+    (date "2022-01-09")
+    (rev "A")
     (company "Michael Lazernik")
   )
 
@@ -740,7 +740,7 @@
     (uuid 00000000-0000-0000-0000-00006651647e)
     (property "Reference" "DS1" (id 0) (at 184.15 54.1782 0))
     (property "Value" "C162BLBSBSW6WN33PAB" (id 1) (at 184.15 56.4896 0))
-    (property "Footprint" "Libs:C162BLBSBSW6WN33PAB" (id 2) (at 184.15 99.06 0)
+    (property "Footprint" "Display:C162BLBSBSW6WN33PAB" (id 2) (at 184.15 99.06 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://focuslcds.com/content/C162BLBSBSW6WN33PAB_Spec.pdf" (id 3) (at 189.23 73.66 0)
@@ -771,7 +771,7 @@
     (property "Value" "PTV09A-4015U-B103" (id 1) (at 200.914 76.2 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Libs:PTV09A-4015U-B103" (id 2) (at 199.39 76.2 0)
+    (property "Footprint" "Potentiometer:PTV09A-4015U-B103" (id 2) (at 199.39 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 199.39 76.2 0)

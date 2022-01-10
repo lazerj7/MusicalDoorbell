@@ -6,8 +6,8 @@
 
   (title_block
     (title "Musical Doorbell")
-    (date "2022-01-06")
-    (rev "B")
+    (date "2022-01-09")
+    (rev "A")
     (company "Michael Lazernik")
   )
 
@@ -5380,7 +5380,7 @@
     (uuid 00000000-0000-0000-0000-00006194c427)
     (property "Reference" "U2" (id 0) (at 83.82 136.652 0))
     (property "Value" "MAX98357AETE+T" (id 1) (at 83.82 138.9634 0))
-    (property "Footprint" "Libs:MAX98357AETE_T" (id 2) (at 83.82 156.21 0)
+    (property "Footprint" "IC:MAX98357AETE_T" (id 2) (at 83.82 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 83.82 156.21 0)
@@ -5761,7 +5761,7 @@
     (property "Value" "ATSAMG53N19B-AU" (id 1) (at 161.29 46.2026 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Libs:ATSAMG53N19B-AU" (id 2) (at 161.29 47.244 0)
+    (property "Footprint" "IC:ATSAMG53N19B-AU" (id 2) (at 161.29 47.244 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 162.56 60.96 0)
@@ -6261,7 +6261,7 @@
     (uuid 00000000-0000-0000-0000-00006322a2ce)
     (property "Reference" "J1" (id 0) (at 232.41 101.1682 0))
     (property "Value" "Conn_02x05_Odd_Even" (id 1) (at 232.41 103.4796 0))
-    (property "Footprint" "Libs:3220-10-0100-00" (id 2) (at 231.14 111.76 0)
+    (property "Footprint" "Connector:3220-10-0100-00" (id 2) (at 231.14 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 231.14 111.76 0)
@@ -6486,7 +6486,7 @@
     (uuid 00000000-0000-0000-0000-000063ed2f43)
     (property "Reference" "J2" (id 0) (at 244.0178 18.6182 0))
     (property "Value" "MEM2051-00-195-00-A" (id 1) (at 244.0178 20.9296 0))
-    (property "Footprint" "Libs:MEM2051-00-195-00-A" (id 2) (at 248.92 38.1 0)
+    (property "Footprint" "Connector:MEM2051-00-195-00-A" (id 2) (at 248.92 38.1 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 248.92 38.1 0)
@@ -6519,7 +6519,7 @@
     (property "Value" "PTV09A-4015U-B103" (id 1) (at 97.5614 88.9 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Libs:PTV09A-4015U-B103" (id 2) (at 99.06 88.9 0)
+    (property "Footprint" "Potentiometer:PTV09A-4015U-B103" (id 2) (at 99.06 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 99.06 88.9 0)
@@ -6653,7 +6653,7 @@
     (uuid 00000000-0000-0000-0000-000064ef518e)
     (property "Reference" "U5" (id 0) (at 214.63 148.082 0))
     (property "Value" "VOS627A-X001T" (id 1) (at 214.63 150.3934 0))
-    (property "Footprint" "Libs:VOS627A-X001T" (id 2) (at 214.63 157.48 0)
+    (property "Footprint" "IC:VOS627A-X001T" (id 2) (at 214.63 157.48 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 214.63 157.48 0)
@@ -6673,7 +6673,7 @@
     (uuid 00000000-0000-0000-0000-000064efc52e)
     (property "Reference" "U4" (id 0) (at 214.63 122.682 0))
     (property "Value" "VOS627A-X001T" (id 1) (at 214.63 124.9934 0))
-    (property "Footprint" "Libs:VOS627A-X001T" (id 2) (at 214.63 132.08 0)
+    (property "Footprint" "IC:VOS627A-X001T" (id 2) (at 214.63 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 214.63 132.08 0)
@@ -6693,7 +6693,7 @@
     (uuid 00000000-0000-0000-0000-000064f40c10)
     (property "Reference" "R9" (id 0) (at 234.95 124.5616 90))
     (property "Value" "1k3" (id 1) (at 234.95 126.873 90))
-    (property "Footprint" "Libs:35501K3FT" (id 2) (at 234.95 129.54 0)
+    (property "Footprint" "Resistor_SMD:35501K3FT" (id 2) (at 234.95 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 234.95 129.54 0)
@@ -6708,7 +6708,7 @@
     (uuid 00000000-0000-0000-0000-000064f41254)
     (property "Reference" "R10" (id 0) (at 234.95 155.0416 90))
     (property "Value" "1k3" (id 1) (at 234.95 157.353 90))
-    (property "Footprint" "Libs:35501K3FT" (id 2) (at 234.95 160.02 0)
+    (property "Footprint" "Resistor_SMD:35501K3FT" (id 2) (at 234.95 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 234.95 160.02 0)
@@ -6952,7 +6952,7 @@
     (uuid 00000000-0000-0000-0000-000066f5b75c)
     (property "Reference" "F2" (id 0) (at 247.65 140.081 0))
     (property "Value" "FUSE_4527" (id 1) (at 247.65 142.3924 0))
-    (property "Footprint" "Libs:FUSE_4527" (id 2) (at 247.65 144.78 0)
+    (property "Footprint" "Fuse:FUSE_4527" (id 2) (at 247.65 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 247.65 144.78 0)
@@ -6967,7 +6967,7 @@
     (uuid 00000000-0000-0000-0000-000067405832)
     (property "Reference" "F1" (id 0) (at 35.56 16.891 0))
     (property "Value" "FUSE_4527" (id 1) (at 35.56 19.2024 0))
-    (property "Footprint" "Libs:FUSE_4527" (id 2) (at 35.56 21.59 0)
+    (property "Footprint" "Fuse:FUSE_4527" (id 2) (at 35.56 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 35.56 21.59 0)
@@ -7001,7 +7001,7 @@
     (uuid 00000000-0000-0000-0000-0000675a9d90)
     (property "Reference" "Q2" (id 0) (at 58.42 15.4432 90))
     (property "Value" "DMP4047LFDE-7" (id 1) (at 58.42 17.7546 90))
-    (property "Footprint" "Libs:DMP4047LFDE-7" (id 2) (at 55.88 19.05 0)
+    (property "Footprint" "Transistor_SMD:DMP4047LFDE-7" (id 2) (at 55.88 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 24.13 0)
@@ -7456,7 +7456,7 @@
       (reference "C28") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000643d3309"
-      (reference "C29") (unit 1) (value "470u") (footprint "Libs:EEH-AZK1E471B")
+      (reference "C29") (unit 1) (value "470u") (footprint "Capacitor_THT:EEH-AZK1E471B")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000643d330f"
       (reference "C30") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -7465,7 +7465,7 @@
       (reference "C31") (unit 1) (value "0u1") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-000064b621ee"
-      (reference "C32") (unit 1) (value "470u") (footprint "Libs:EEH-AZK1E471B")
+      (reference "C32") (unit 1) (value "470u") (footprint "Capacitor_THT:EEH-AZK1E471B")
     )
     (path "/00000000-0000-0000-0000-00006351f307/00000000-0000-0000-0000-000063569a60"
       (reference "C33") (unit 1) (value "0u01") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -7489,7 +7489,7 @@
       (reference "D3") (unit 1) (value "BZX84-C8V2,235") (footprint "Diode_SMD:D_SOT-23_ANK")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000647115d3"
-      (reference "D4") (unit 1) (value "LTL-307P") (footprint "Libs:Low_Batt_LED")
+      (reference "D4") (unit 1) (value "LTL-307P") (footprint "LED_THT:LTL-307P")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000681efa16"
       (reference "D5") (unit 1) (value "BZX84-C8V2,235") (footprint "Diode_SMD:D_SOT-23_ANK")
@@ -7498,13 +7498,13 @@
       (reference "D6") (unit 1) (value "V3FM12-M3/H") (footprint "Diode_SMD:D_SMF")
     )
     (path "/00000000-0000-0000-0000-0000665129d9/00000000-0000-0000-0000-00006651647e"
-      (reference "DS1") (unit 1) (value "C162BLBSBSW6WN33PAB") (footprint "Libs:C162BLBSBSW6WN33PAB")
+      (reference "DS1") (unit 1) (value "C162BLBSBSW6WN33PAB") (footprint "Display:C162BLBSBSW6WN33PAB")
     )
     (path "/00000000-0000-0000-0000-000067405832"
-      (reference "F1") (unit 1) (value "FUSE_4527") (footprint "Libs:FUSE_4527")
+      (reference "F1") (unit 1) (value "FUSE_4527") (footprint "Fuse:FUSE_4527")
     )
     (path "/00000000-0000-0000-0000-000066f5b75c"
-      (reference "F2") (unit 1) (value "FUSE_4527") (footprint "Libs:FUSE_4527")
+      (reference "F2") (unit 1) (value "FUSE_4527") (footprint "Fuse:FUSE_4527")
     )
     (path "/00000000-0000-0000-0000-00006195c2cc"
       (reference "FB1") (unit 1) (value "MFBM1V3216-102-R") (footprint "Inductor_SMD:L_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -7513,19 +7513,19 @@
       (reference "FB2") (unit 1) (value "MFBM1V3216-102-R") (footprint "Inductor_SMD:L_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00006322a2ce"
-      (reference "J1") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Libs:3220-10-0100-00")
+      (reference "J1") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector:3220-10-0100-00")
     )
     (path "/00000000-0000-0000-0000-000063ed2f43"
-      (reference "J2") (unit 1) (value "MEM2051-00-195-00-A") (footprint "Libs:MEM2051-00-195-00-A")
+      (reference "J2") (unit 1) (value "MEM2051-00-195-00-A") (footprint "Connector:MEM2051-00-195-00-A")
     )
     (path "/00000000-0000-0000-0000-000064f6badc"
       (reference "J3") (unit 1) (value "1935174") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000643d31e2"
-      (reference "L1") (unit 1) (value "SRP1265C-220M") (footprint "Libs:SRP1265C-220M")
+      (reference "L1") (unit 1) (value "SRP1265C-220M") (footprint "Inductor_SMD:SRP1265C-220M")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-000064a92dd9"
-      (reference "L2") (unit 1) (value "CLF12577NIT-470M-D") (footprint "Libs:CLF12577NIT-470M-D")
+      (reference "L2") (unit 1) (value "CLF12577NIT-470M-D") (footprint "Inductor_SMD:CLF12577NIT-470M-D")
     )
     (path "/00000000-0000-0000-0000-0000619771f5"
       (reference "LS1") (unit 1) (value "Speaker") (footprint "Connector_Molex:Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal")
@@ -7537,10 +7537,10 @@
       (reference "Q1") (unit 2) (value "SIA517DJ-T1-GE3") (footprint "Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Dual")
     )
     (path "/00000000-0000-0000-0000-0000675a9d90"
-      (reference "Q2") (unit 1) (value "DMP4047LFDE-7") (footprint "Libs:DMP4047LFDE-7")
+      (reference "Q2") (unit 1) (value "DMP4047LFDE-7") (footprint "Transistor_SMD:DMP4047LFDE-7")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-00006466978c"
-      (reference "Q3") (unit 1) (value "PMPB47XP") (footprint "Libs:PMPB47XP")
+      (reference "Q3") (unit 1) (value "PMPB47XP") (footprint "Transistor_SMD:PMPB47XP")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000648f5004"
       (reference "Q4") (unit 1) (value "BC847") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -7573,10 +7573,10 @@
       (reference "R8") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000064f40c10"
-      (reference "R9") (unit 1) (value "1k3") (footprint "Libs:35501K3FT")
+      (reference "R9") (unit 1) (value "1k3") (footprint "Resistor_SMD:35501K3FT")
     )
     (path "/00000000-0000-0000-0000-000064f41254"
-      (reference "R10") (unit 1) (value "1k3") (footprint "Libs:35501K3FT")
+      (reference "R10") (unit 1) (value "1k3") (footprint "Resistor_SMD:35501K3FT")
     )
     (path "/00000000-0000-0000-0000-00006353ec6b"
       (reference "R11") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -7654,7 +7654,7 @@
       (reference "RV1") (unit 1) (value "V10E25P") (footprint "Varistor:RV_Disc_D12mm_W5.1mm_P7.5mm")
     )
     (path "/00000000-0000-0000-0000-000064207da6"
-      (reference "RV2") (unit 1) (value "PTV09A-4015U-B103") (footprint "Libs:PTV09A-4015U-B103")
+      (reference "RV2") (unit 1) (value "PTV09A-4015U-B103") (footprint "Potentiometer:PTV09A-4015U-B103")
     )
     (path "/00000000-0000-0000-0000-000066e07408"
       (reference "RV3") (unit 1) (value "V10E35P") (footprint "Varistor:RV_Disc_D12mm_W5.8mm_P7.5mm")
@@ -7663,34 +7663,34 @@
       (reference "RV4") (unit 1) (value "V10E35P") (footprint "Varistor:RV_Disc_D12mm_W5.8mm_P7.5mm")
     )
     (path "/00000000-0000-0000-0000-0000665129d9/00000000-0000-0000-0000-000066516485"
-      (reference "RV5") (unit 1) (value "PTV09A-4015U-B103") (footprint "Libs:PTV09A-4015U-B103")
+      (reference "RV5") (unit 1) (value "PTV09A-4015U-B103") (footprint "Potentiometer:PTV09A-4015U-B103")
     )
     (path "/00000000-0000-0000-0000-00006351f307/00000000-0000-0000-0000-000063569a26"
-      (reference "SW1") (unit 1) (value "PEC12R-4115F-S0012") (footprint "Libs:PEC12R-4115F-S0012")
+      (reference "SW1") (unit 1) (value "PEC12R-4115F-S0012") (footprint "Encoder:PEC12R-4115F-S0012")
     )
     (path "/00000000-0000-0000-0000-000061d6fed6"
       (reference "U1") (unit 1) (value "CD4052BPWRG3") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00006194c427"
-      (reference "U2") (unit 1) (value "MAX98357AETE+T") (footprint "Libs:MAX98357AETE_T")
+      (reference "U2") (unit 1) (value "MAX98357AETE+T") (footprint "IC:MAX98357AETE_T")
     )
     (path "/00000000-0000-0000-0000-000061e98107"
-      (reference "U3") (unit 1) (value "ATSAMG53N19B-AU") (footprint "Libs:ATSAMG53N19B-AU")
+      (reference "U3") (unit 1) (value "ATSAMG53N19B-AU") (footprint "IC:ATSAMG53N19B-AU")
     )
     (path "/00000000-0000-0000-0000-000064efc52e"
-      (reference "U4") (unit 1) (value "VOS627A-X001T") (footprint "Libs:VOS627A-X001T")
+      (reference "U4") (unit 1) (value "VOS627A-X001T") (footprint "IC:VOS627A-X001T")
     )
     (path "/00000000-0000-0000-0000-000064ef518e"
-      (reference "U5") (unit 1) (value "VOS627A-X001T") (footprint "Libs:VOS627A-X001T")
+      (reference "U5") (unit 1) (value "VOS627A-X001T") (footprint "IC:VOS627A-X001T")
     )
     (path "/00000000-0000-0000-0000-000066923e5d"
       (reference "U6") (unit 1) (value "MR25H128A") (footprint "Package_DFN_QFN:DFN-8-1EP_6x5mm_P1.27mm_EP2x2mm")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-000067503003"
-      (reference "U7") (unit 1) (value "LT6654BHS6-2.5-TRMPBF") (footprint "Libs:LT6654BHS6-2.5-TRMPBF")
+      (reference "U7") (unit 1) (value "LT6654BHS6-2.5-TRMPBF") (footprint "IC:LT6654BHS6-2.5-TRMPBF")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000643d31dc"
-      (reference "U8") (unit 1) (value "TLS4125D0EPV50XUMA1") (footprint "Libs:TLS4125D0EPV50XUMA1")
+      (reference "U8") (unit 1) (value "TLS4125D0EPV50XUMA1") (footprint "IC:TLS4125D0EPV50XUMA1")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-00006757a4a0"
       (reference "U9") (unit 1) (value "LM2903DR2G") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
@@ -7702,7 +7702,7 @@
       (reference "U9") (unit 3) (value "LM2903DR2G") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00006434f40f/00000000-0000-0000-0000-0000643d32f2"
-      (reference "U10") (unit 1) (value "AP1509-33SG-13") (footprint "Libs:AP1509-33SG-13")
+      (reference "U10") (unit 1) (value "AP1509-33SG-13") (footprint "IC:AP1509-33SG-13")
     )
     (path "/00000000-0000-0000-0000-0000665129d9/00000000-0000-0000-0000-0000665164bb"
       (reference "U11") (unit 1) (value "PI4IOE5V9535LEX") (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")

@@ -6,8 +6,8 @@
 
   (title_block
     (title "Musical Doorbell")
-    (date "2022-01-06")
-    (rev "B")
+    (date "2022-01-09")
+    (rev "A")
     (company "Michael Lazernik")
   )
 
@@ -560,7 +560,7 @@
     (uuid 00000000-0000-0000-0000-000063569a26)
     (property "Reference" "SW1" (id 0) (at 143.51 87.1982 0))
     (property "Value" "PEC12R-4115F-S0012" (id 1) (at 143.51 89.5096 0))
-    (property "Footprint" "Libs:PEC12R-4115F-S0012" (id 2) (at 139.7 92.456 0)
+    (property "Footprint" "Encoder:PEC12R-4115F-S0012" (id 2) (at 139.7 92.456 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.51 89.916 0)

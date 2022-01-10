@@ -1,8 +1,0 @@
-(module RevisionNumber (layer F.Cu) (tedit 61D74599)
-  (fp_text reference ${REVISION} (at 0 0) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value RevisionNumber (at 0 -0.5) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-)
