@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Libs)(type KiCad)(uri ${KIPRJMOD}/Libs)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/mike/KiCad/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP1265C-220M
+D Inductor
+K inductor
+F ~
+$ENDCMP
+#
+#End Doc Library
