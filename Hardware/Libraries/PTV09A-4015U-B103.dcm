@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PTV09A-4015U-B103
-D Potentiometer
-K resistor variable
-F ~
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SIA517DJ-T1-GE3
-D Mosfet Array N and P-Channel 12V 4.5A 6.5W Surface Mount PowerPAK® SC-70-6 Dual
-K mosfet
-F https://www.vishay.com/docs/64832/sia517dj.pdf
-$ENDCMP
-#
-#End Doc Library

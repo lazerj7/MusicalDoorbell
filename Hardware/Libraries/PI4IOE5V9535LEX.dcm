@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PI4IOE5V9535LEX
-D 16-bit I/O expander, I2C
-K I2C parallel port expander
-F https://www.diodes.com/assets/Datasheets/PI4IOE5V9535.pdf
-$ENDCMP
-#
-#End Doc Library

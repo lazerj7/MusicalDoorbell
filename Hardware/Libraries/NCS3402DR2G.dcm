@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NCS3402DR2G
-D Dual General-Purpose Comparator, SOIC-8
-K cmp open drain
-F https://www.onsemi.com/pdf/datasheet/ncs3402-d.pdf
-$ENDCMP
-#
-#End Doc Library

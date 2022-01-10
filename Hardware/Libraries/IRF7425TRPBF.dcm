@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IRF7425TRPBF
-D P-MOSFET transistor
-K transistor PMOS P-MOS P-MOSFET
-F https://www.infineon.com/dgdl/irf7425pbf.pdf?fileId=5546d462533600a4015355fb1c361bdc
-$ENDCMP
-#
-#End Doc Library

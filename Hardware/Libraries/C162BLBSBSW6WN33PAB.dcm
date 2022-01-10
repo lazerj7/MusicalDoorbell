@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP C162BLBSBSW6WN33PAB
-D LCD 16x2 Alphanumeric 14pin Blue Backlight, 8bit parallel, 3V3 VDD
-F https://focuslcds.com/content/C162BLBSBSW6WN33PAB_Spec.pdf
-$ENDCMP
-#
-#End Doc Library
