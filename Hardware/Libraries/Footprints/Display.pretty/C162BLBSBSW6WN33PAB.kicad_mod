@@ -1,6 +1,6 @@
 (footprint "C162BLBSBSW6WN33PAB" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D8B075)
+  (tedit 61DCE5D7)
   (descr "16 x 2 Character LCD, https://focuslcds.com/product/16x2-stn-character-lcd-c162blbsbsw6wn33pab")
   (tags "C162BLBSBSW6WN33PAB 16 x 2 Character LCD")
   (attr through_hole)

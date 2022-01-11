@@ -1224,6 +1224,24 @@
         (number "9" (effects (font (size 1.016 1.016))))
       )
     )
+    (symbol "MAX98357AETE+T_1_1"
+      (pin no_connect line (at 0 -7.62 0) (length 5.08) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "12" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at 0 -7.62 0) (length 5.08) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "13" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at 0 -7.62 0) (length 5.08) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at 0 -7.62 0) (length 5.08) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+    )
   )
   (symbol "PI4IOE5V9535LEX" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 25.4 0)

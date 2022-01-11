@@ -806,7 +806,7 @@
     (uuid 00000000-0000-0000-0000-0000665164bb)
     (property "Reference" "U11" (id 0) (at 140.97 46.5582 0))
     (property "Value" "PI4IOE5V9535LEX" (id 1) (at 140.97 48.8696 0))
-    (property "Footprint" "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm" (id 2) (at 146.05 100.33 0)
+    (property "Footprint" "IC:TSSOP-24_4.4x7.8mm_P0.65mm" (id 2) (at 146.05 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/PI4IOE5V9535.pdf" (id 3) (at 146.05 102.87 0)
