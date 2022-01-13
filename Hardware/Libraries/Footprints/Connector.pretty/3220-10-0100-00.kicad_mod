@@ -1,6 +1,6 @@
 (footprint "3220-10-0100-00" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61DBA307)
+  (tedit 61DE153D)
   (descr "http://cnctech.us/pdfs/3220-XX-0100-00.pdf")
   (attr through_hole)
   (fp_text reference "REF**" (at 2.64 -4.08) (layer "F.SilkS")
@@ -41,8 +41,8 @@
   (pad "8" thru_hole circle (at 3.81 -1.27) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 0c28399f-c918-46ec-acb5-fd96dcc851a8))
   (pad "9" thru_hole circle (at 5.08 0) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 547ac687-6967-42ae-9929-d7ba829b66af))
   (pad "10" thru_hole circle (at 5.08 -1.27) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 1d7cf574-4894-45e7-9ec8-3aa9c15e3d35))
-  (model "${KIPRJMOD}/Libraries/3D_Models/Connector.3dshapes/3220-10-0100.igs"
-    (offset (xyz 2.5 0.65 0))
+  (model "${KIPRJMOD}/Libraries/3D_Models/Connector.3dshapes/3220-10-0100.step"
+    (offset (xyz 2.6 0.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
